@@ -1,0 +1,43 @@
+img {
+    width: 420px;
+    border-radius: 15px;
+}
+
+p {
+    width: 420px;
+    text-align: justify;
+}
+
+body {
+    background: #a5cbff;
+    font-family: sans-serif;
+}
+
+.wrapper {
+    background: #f1f0ff;
+    width: 420px;
+    padding: 20px 80px;
+    margin: 0 auto;
+    border-radius: 15px
+}
+
+.btn {
+    background: #b9b4ff;
+    padding: 7px 13px;
+    color: #bef0ff;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: 0.5s;
+}
+
+.btn:hover {
+    background: #d2cfff;
+}
+
+.menu__link {
+    color: #41e2f7;
+    background: #5b6be8;
+    padding: 3px 9px;
+    text-decoration: none;
+    border-radius: 10px;
+}
